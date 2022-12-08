@@ -4,4 +4,4 @@ for t in range (10:
        else:
            print(t,end"")
    else:
-       print("code" , end ""
+       print("code" , end "")
