@@ -1,0 +1,7 @@
+for t in range (10:
+      if (t==0:
+          break
+       else:
+           print(t,end"")
+   else:
+       print("code" , end ""
